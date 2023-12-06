@@ -1,0 +1,5 @@
+name: TransformerAutoModel
+params:
+  model_name: "/home/zhangdonghui/kaggle/Child-Mind-Institute/kaggle-child-mind-institute-detect-sleep-states-main/weights/deberta-v3-small"
+#  stride: ${downsample_rate}
+  pretrained: True

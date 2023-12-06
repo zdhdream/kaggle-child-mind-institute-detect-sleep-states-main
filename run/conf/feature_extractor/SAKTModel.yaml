@@ -1,0 +1,6 @@
+name: SAKTModel
+hidden_size: 128
+nlayers: 3
+rnnlayers: 3
+dropout: 0.2
+nheads: 16

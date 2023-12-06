@@ -1,0 +1,5 @@
+data_dir: /home/zhangdonghui/kaggle/Child-Mind-Institute/kaggle-child-mind-institute-detect-sleep-states-main/data
+processed_dir: /home/zhangdonghui/kaggle/Child-Mind-Institute/kaggle-child-mind-institute-detect-sleep-states-main/processed_data
+output_dir: /home/zhangdonghui/kaggle/Child-Mind-Institute/kaggle-child-mind-institute-detect-sleep-states-main/output
+model_dir: /home/zhangdonghui/kaggle/Child-Mind-Institute/kaggle-child-mind-institute-detect-sleep-states-main/output/train
+sub_dir: ./
