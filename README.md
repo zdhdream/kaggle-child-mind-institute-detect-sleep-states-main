@@ -1,7 +1,7 @@
 # Child Mind Institute - Detect Sleep States
 
 This repository is for [Child Mind Institute - Detect Sleep States](https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/overview)
-
+Our LB is 47th, PB is 104th
 ## Acknowledgments
 Thanks to Tubotubo for generously providing a high-scoring benchmark code during the competition. Please like his post[https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/452940] and the original repository[https://github.com/tubo213/kaggle-child-mind-institute-detect-sleep-states/tree/main] first.
 
